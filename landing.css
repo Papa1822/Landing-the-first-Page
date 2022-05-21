@@ -65,3 +65,27 @@ a{
 
 }
 
+.info-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+
+}
+.box{
+    width: 8rem;
+    height:8rem;
+    border: 2px solid #3882f6;
+    border-radius: .8rem;
+    margin-top: 1.5rem;
+
+
+}
+.hold{
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
