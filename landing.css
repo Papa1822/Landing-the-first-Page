@@ -1,0 +1,27 @@
+.top{
+    display: flex;
+    justify-content: space-around;
+
+}
+li{
+    display: inline-flex;
+    justify-content:space-around;
+    
+    
+}
+a{
+    text-decoration: none;
+    margin-left: 1rem;
+}
+.right{
+    margin-top: -.9em;
+}
+.placeholder{
+    width: 25rem;
+    height: 10rem;
+    background-color:grey;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
