@@ -1,27 +1,67 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+
 .top{
     display: flex;
     justify-content: space-around;
 
 }
+.header{
+    color: white;
+    font-size: 24px;
+}
 li{
     display: inline-flex;
     justify-content:space-around;
-    
-    
 }
 a{
     text-decoration: none;
     margin-left: 1rem;
+    color: white;
+    font-size: 18px;
+
 }
 .right{
     margin-top: -.9em;
 }
 .placeholder{
     width: 25rem;
-    height: 10rem;
+    height: 11rem;
     background-color:grey;
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
 }
+.hero{
+    font-size: 3rem;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+.heroall{
+    margin-left: 8rem;
+    padding-top: 5rem;
+}
+.upper{
+    background-color: #1F2937;
+}
+.main-text{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5rem;
+}
+.button{
+    color:white;
+    background-color: #3882f6;
+    border-radius: 0.3rem;
+
+}
+.placeholder{
+    margin-right: 26rem;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+
+}
+
