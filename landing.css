@@ -111,3 +111,30 @@ a{
     font-style: normal;
 
 }
+.call{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20rem;
+    width: 40rem;
+    height: auto;
+    background-color: #3882f6;
+    color: white;
+    padding: 3rem;
+    margin-top: 5rem;
+    border-radius: 0.7rem;
+}
+.action{
+    font-size: 20px;
+}
+.bene{
+    color: #1F2937;
+}
+.ubutton{
+    width:6rem;
+    color: white;
+    border-radius: 0.3rem;
+    border-color: white;
+    background-color: #3882f6;
+    font-weight: 700;
+    
+}
